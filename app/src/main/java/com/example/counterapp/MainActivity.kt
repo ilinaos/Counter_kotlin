@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun Reset (view: View) {
-        textView.text="5";
+        textView.text="6";
     }
 
     fun Count (view: View) {
