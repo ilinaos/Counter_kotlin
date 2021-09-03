@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     fun Reset (view: View) {
         textView.text="5";
+        //new comment
     }
 
     fun Count (view: View) {
