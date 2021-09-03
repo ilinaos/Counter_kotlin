@@ -23,5 +23,6 @@ class MainActivity : AppCompatActivity() {
         var count: Int=Integer.parseInt(num)
         count++
         textView.text=count.toString();
+        //one more comment
     }
 }
